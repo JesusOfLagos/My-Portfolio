@@ -17,3 +17,5 @@ const menu = document.querySelector("header nav ul");
 burger.addEventListener("click", function () {
   menu.classList.toggle("open");
 });
+
+let examination = burger;
