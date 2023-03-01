@@ -19,3 +19,4 @@ burger.addEventListener("click", function () {
 });
 
 let examination = burger;
+alert(burger);
